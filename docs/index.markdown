@@ -8,4 +8,4 @@ Shenanigans
 
 Hello Iri, I have created shenanigans
 
-![Owlbears love tea]({{ site.baseurl }}/assets/images/cookin.png)
+![Owlbears love tea](assets/images/cookin.png)
